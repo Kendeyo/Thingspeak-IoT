@@ -11,11 +11,11 @@ int led   = D7;
 int pin   = A0;
 
 /* Set these to your desired credentials. */
-const char *ssid = "Jones";
-const char *password = "kj12345678910";
+const char *ssid = "";//Insert ssid
+const char *password = "";//Insert password
 
 const char *host = "api.thingspeak.com";
-String apiKey = "KKP4A86QXBKYZK1B";
+String apiKey = "KKP4A86QXBKYZK1B"; //API String
 
 
 
